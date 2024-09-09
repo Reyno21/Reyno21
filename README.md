@@ -32,7 +32,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Reyno21&theme=synthwave)](https://github.com/Reyno21/github-readme-stats)
 
-![Snake animation](https://github.com/MagnoEfren/magnoefren/blob/main/github_snake.svg)
+![Snake animation](https://github.com/Reyno21/Reyno21/blob/main/github_snake.svg)
 ## Contact me
 
 <a href="https://www.linkedin.com/in/gerardo-pastrana-gomez-726a6418b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Gerardo Pastrana" height="30" width="40" /></a>
