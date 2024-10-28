@@ -1,20 +1,21 @@
-Gerardo Pastrana
-IF THE FUTURE IS YOURS... PROVE IT.
+#Gerardo Pastrana#
+
+#IF THE FUTURE IS YOURS... PROVE IT.#
 
 🎮 About Me
-Software Engineer student 🧑‍💻
-Backend Developer, building scalable applications
+Software Engineer  🧑‍💻
+FullStack Developer, building scalable applications
 I reinforce my skills by coding every day
 💻 Languages and Tools
 <p align="left"> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/en-us/learn/dotnet/what-is-dotnet" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/es-es/languages/csharp" target="_blank"> <img src="https://desarrolloweb.com/storage/tag_images/actual/BzOL16MEqsKOe0VThjF6FXPBi0uyK16lkTety9Wz.png" alt="csharp" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-US/sql-server/" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="sqlserver" width="40" height="40"/> </a> <a href="https://www.postgresql.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://kotlinlang.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://seeklogo.com/images/F/figma-logo-E4E21D3AEA-seeklogo.com.png" alt="figma" width="40" height="40"/> </a> <a href="https://nodejs.org/es" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postman.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://expressjs.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="express" width="40" height="40"/> </a> </p>
 📈 GitHub Stats
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Reyno21&show_icons=true&theme=synthwave" alt="Lucho's GitHub stats" height="150px" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reyno21&theme=synthwave" alt="Top Languages" height="150px" /> </div>
-🐍 GitHub Activity Animation
+🐍 
 <p align="center"> <img src="https://github.com/MagnoEfren/magnoefren/blob/main/github_snake.svg" alt="Snake animation" /> </p>
 🚀 Extra
 🌐 Visitors
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Reyno21&label=Profile%20Views&color=0e75b6&style=flat" alt="visitor counter"/> </p>
 📜 Quick Links
-<p align="center"> <a href="https://github.com/Reyno21?tab=repositories"><img src="https://img.shields.io/badge/My%20Projects-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=008000&color=008000" alt="projects button" /></a> <a href="https://www.linkedin.com/in/gerardo-pastrana-gomez-726a6418b"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn button" /></a> <a href="https://reyno21.github.io/"><img src="https://img.shields.io/badge/Visit%20My%20Website-100000?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=purple&color=purple" alt="website button" /></a> </p>
+<p align="center"> <a href="https://github.com/Reyno21?tab=repositories"><img src="https://img.shields.io/badge/My%20Projects-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=008000&color=008000" alt="projects button" /></a> </br> <a href="https://www.linkedin.com/in/gerardo-pastrana-gomez-726a6418b"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn button" /></a> </p>
 📫 Contact Me
 <p align="left"> <a href="https://www.linkedin.com/in/gerardo-pastrana-gomez-726a6418b" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40"/></a> <a href="https://www.facebook.com/geraxer" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" width="40" height="40"/></a> <a href="https://www.instagram.com/lucho.pastrana" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="40" height="40"/></a> </p>
